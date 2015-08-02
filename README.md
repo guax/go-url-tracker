@@ -18,4 +18,4 @@ go build tracker.go
 ./tracker
 ```
 
-Access http://localhost:8080/r?url=http://www.google.com/
+Access http://localhost:8080/r?url=http%3A%2F%2Fwww.google.com%2F
